@@ -1,0 +1,27 @@
+//explore novos section start//
+    #explore{
+        padding: 60px 0px 20px;
+        .explore-heading{
+            text-align: center;
+            h1{
+                font-size: 50px;
+                font-weight: bold;
+                line-height: 1.5;
+            }
+        }
+        .responsive_explore{
+            margin: 5px;
+            .img_slick {
+                width: 95%;
+                height:400px;
+            }
+            .card-text{
+                text-align: center;
+                font-size: 20px;
+                font-weight: 600;
+                line-height: 1.2;
+                letter-spacing: 0px;
+            }
+        }
+    }
+//explore novos section end//
